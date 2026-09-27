@@ -1,1 +1,1 @@
-get_prop(mtk_hal_camera, exported_system_prop)
+get_prop(mtk_hal_camera, vendor_oplus_prop)
